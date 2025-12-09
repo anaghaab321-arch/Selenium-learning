@@ -1,4 +1,5 @@
 a=10
 b=10
-sum = a+b
+c=3
+sum = c+a+b
 print(sum)
